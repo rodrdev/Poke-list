@@ -1,0 +1,11 @@
+{
+  "name": "pokemao",
+  "version": "1.0.0",
+  "description": "Aplicação PIKA.chu",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
